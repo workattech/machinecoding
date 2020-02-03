@@ -20,13 +20,13 @@ Learn how to **prepare** for machine coding round at: [How to prepare for machin
 Learn how to **practice** for machine coding round at: [How to practice for machine coding round?](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
 ---
-## Sample Problems
+## Sample Machine Coding Questions
 
 ### Problems
-- [**Snake & Ladder** Machine Coding Practice Problem](https://workattech.github.io/mock-machine-coding-1/problem-statement)
-- [**Splitwise** Machine Coding Practice Problem](https://workattech.github.io/mock-machine-coding-2/problem-statement)
-- [**Trello** Machine Coding Practice Problem](https://workattech.github.io/mock-machine-coding-3/problem-statement)
+- [**Snake & Ladder** | Machine Coding Round Practice Questions](https://workattech.github.io/mock-machine-coding-1/problem-statement)
+- [**Splitwise** | Machine Coding Round Practice Questions](https://workattech.github.io/mock-machine-coding-2/problem-statement)
+- [**Trello** | Machine Coding Round Practice Questions](https://workattech.github.io/mock-machine-coding-3/problem-statement)
 
 ### Solutions
-- [**Snake & Ladder** Machine Coding Design](https://workat.tech/machine-coding/article/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w)
-- [**Splitwise** Machine Coding Design](https://workat.tech/machine-coding/article/how-to-design-splitwise-machine-coding-ayvnfo1tfst6)
+- [**Snake & Ladder** Design | Machine Coding Round Practice Questions](https://workat.tech/machine-coding/article/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w)
+- [**Splitwise** Design | Machine Coding Round Practice Questions](https://workat.tech/machine-coding/article/how-to-design-splitwise-machine-coding-ayvnfo1tfst6)
