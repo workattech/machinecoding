@@ -23,9 +23,9 @@ Learn how to **practice** for machine coding round at: [How to practice for mach
 ## Sample Machine Coding Questions
 
 ### Problems
-- [**Snake & Ladder** - Machine Coding Round Practice Questions](https://workattech.github.io/mock-machine-coding-1/problem-statement)
-- [**Splitwise** - Machine Coding Round Practice Questions](https://workattech.github.io/mock-machine-coding-2/problem-statement)
-- [**Trello** - Machine Coding Round Practice Questions](https://workattech.github.io/mock-machine-coding-3/problem-statement)
+- [**Snake & Ladder** - Machine Coding Round Practice Questions](https://workat.tech/machine-coding/practice/snake-and-ladder-problem-zgtac9lxwntg)
+- [**Splitwise** - Machine Coding Round Practice Questions](https://workat.tech/machine-coding/practice/splitwise-problem-0kp2yneec2q2)
+- [**Trello** - Machine Coding Round Practice Questions](https://workat.tech/machine-coding/practice/trello-problem-t0nwwqt61buz)
 
 ### Solutions
 - [**Snake & Ladder** Design - Machine Coding Round Practice Questions](https://workat.tech/machine-coding/article/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w)
