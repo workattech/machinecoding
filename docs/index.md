@@ -1,4 +1,4 @@
-# Machine Coding
+# Machine Coding Round
 
 Machine coding round involves solving a design problem in a matter of a couple of hours.
 
