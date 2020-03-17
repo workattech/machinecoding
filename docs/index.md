@@ -33,8 +33,8 @@ Learn how to **practice** for machine coding round at: [How to practice for mach
 
 ---
 Other articles you might be interested in:
-- [Problem Solving Round](https://workattech.github.io/problemsolving)
 - [How to prepare for technical interviews at companies like Amazon, Flipkart, Google, Microsoft, Swiggy, Uber, etc?](https://workattech.github.io)
+- [Problem Solving Round](https://workattech.github.io/problemsolving)
 
 ___
 
