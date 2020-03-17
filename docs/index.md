@@ -30,3 +30,12 @@ Learn how to **practice** for machine coding round at: [How to practice for mach
 ### Solutions
 - [**Snake & Ladder** Design - Machine Coding Round Practice Questions](https://workat.tech/machine-coding/article/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w)
 - [**Splitwise** Design - Machine Coding Round Practice Questions](https://workat.tech/machine-coding/article/how-to-design-splitwise-machine-coding-ayvnfo1tfst6)
+
+---
+Other articles you might be interested in:
+- [Problem Solving Round](https://workattech.github.io/problemsolving)
+- [How to prepare for technical interviews at companies like Amazon, Flipkart, Google, Microsoft, Swiggy, Uber, etc?](https://workattech.github.io)
+
+___
+
+I actively write about [interview preparation](https://workat.tech) on LinkedIn as [gcnit](https://www.linkedin.com/in/gcnit)
