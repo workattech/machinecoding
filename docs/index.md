@@ -19,6 +19,8 @@ Learn how to **prepare** for machine coding round at: [How to prepare for machin
 
 Learn how to **practice** for machine coding round at: [How to practice for machine coding round?](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
+Learn how to **ace** the machine coding round: [How to ace the machine coding round?](https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo)
+
 ---
 ## Sample Machine Coding Questions
 
